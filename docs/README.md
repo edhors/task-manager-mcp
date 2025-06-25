@@ -12,15 +12,14 @@ A modern task management system built with Python, featuring FastMCP and SQLAlch
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - UV package manager
 
 ## Quick Start
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd tms
+   git clone https://github.com/edhors/task-manager-mcp
    ```
 
 2. **Setup Development Environment:**
